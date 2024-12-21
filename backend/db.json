@@ -1,0 +1,29 @@
+{
+  "teams": [
+    {
+      "id": "c281",
+      "teamName": "twin",
+      "participants": [
+        {
+          "name": "anas",
+          "email": "anas.bettouzia@esprit.tn"
+        }
+      ]
+    },
+    {
+      "id": "4b91",
+      "teamName": "bi",
+      "participants": [
+        {
+          "name": "AAA",
+          "email": "aaa@gmail.com"
+        },
+        {
+          "name": "bbbb",
+          "email": "bbbb@gmail.com"
+        }
+      ],
+      "projectDescription": "equipe bi"
+    }
+  ]
+}
